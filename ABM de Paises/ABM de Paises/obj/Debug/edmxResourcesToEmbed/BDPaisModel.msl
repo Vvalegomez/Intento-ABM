@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StoreContainer" CdmEntityContainer="BDPaisesEntities">
+    <EntitySetMapping Name="Tables">
+      <EntityTypeMapping TypeName="BDPaisesModel.Table">
+        <MappingFragment StoreEntitySet="Table">
+          <ScalarProperty Name="Provincias" ColumnName="Provincias" />
+          <ScalarProperty Name="Ciudades" ColumnName="Ciudades" />
+          <ScalarProperty Name="Paises" ColumnName="Paises" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

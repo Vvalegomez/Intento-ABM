@@ -1,0 +1,17 @@
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\bin\Debug\BDPaises.mdf
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\bin\Debug\BDPaises_log.ldf
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\bin\Debug\ABM de Paises.exe.config
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\bin\Debug\ABM de Paises.exe
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\bin\Debug\ABM de Paises.pdb
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\bin\Debug\EntityFramework.dll
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\bin\Debug\EntityFramework.xml
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\obj\Debug\ABM de Paises.csprojAssemblyReference.cache
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\obj\Debug\ABM_de_Paises.ABM.resources
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\obj\Debug\ABM_de_Paises.Properties.Resources.resources
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\obj\Debug\ABM de Paises.csproj.GenerateResource.cache
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\obj\Debug\ABM de Paises.csproj.CoreCompileInputs.cache
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\obj\Debug\ABM de Paises.csproj.CopyComplete
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\obj\Debug\ABM de Paises.exe
+C:\Users\Valerio\source\repos\ABM de Paises\ABM de Paises\obj\Debug\ABM de Paises.pdb
